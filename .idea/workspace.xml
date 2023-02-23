@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a53cd6d-213a-4fb3-8bed-3ff270ad8f86" name="Changes" comment="Commit Numero 1">
+    <list default="true" id="4a53cd6d-213a-4fb3-8bed-3ff270ad8f86" name="Changes" comment="Commit Numero 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +30,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -101,10 +101,30 @@
       <option name="presentableId" value="Default" />
       <updated>1677171275687</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit Numero 2">
+      <created>1677193991089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677193991089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Numero 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Numero 1" />
+    <MESSAGE value="Commit Numero 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Numero 2" />
   </component>
 </project>
